@@ -1,0 +1,4 @@
+#Tue Mar 26 09:57:51 ICT 2019
+base.0=D\:\\androidWorkspace\\CDC_Connect\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
